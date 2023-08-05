@@ -1,5 +1,5 @@
 '''
-SlitherLink by Davide Reverberi. Mat: 332781
+SlitherLink by Davide Reverberi.
 '''
 import g2d
 from time import time
@@ -7,7 +7,6 @@ from random import randint
 
 #Press the H key to get help (to know if the game is unsolvable)
 
-#1) Fare Unittest
 
 W, H = 40, 40
 LONG_PRESS = 0.5
